@@ -10,4 +10,4 @@ Maintaining a list of everything I read until I find an easier app
 2. [If you’re not feeling “hell yeah!” then say no](https://sive.rs/hyn)
 
 ### 7 August 2026
-1.[The Ultimate Career Advice: Make Your Work Your Calling](https://www.theatlantic.com/ideas/archive/2025/06/make-your-work-your-calling/683330/)
+1. [The Ultimate Career Advice: Make Your Work Your Calling](https://www.theatlantic.com/ideas/archive/2025/06/make-your-work-your-calling/683330/)
