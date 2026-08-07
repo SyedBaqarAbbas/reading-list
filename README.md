@@ -11,3 +11,6 @@ Maintaining a list of everything I read until I find an easier app
 
 ### 7 August 2026
 1. [The Ultimate Career Advice: Make Your Work Your Calling](https://www.theatlantic.com/ideas/archive/2025/06/make-your-work-your-calling/683330/)
+
+### 8 August 2026
+1. [what ambitious girls should look for in a partner](https://jeeinyoun.substack.com/p/what-ambitious-girls-should-look)
