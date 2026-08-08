@@ -14,3 +14,5 @@ Maintaining a list of everything I read until I find an easier app
 
 ### 8 August 2026
 1. [what ambitious girls should look for in a partner](https://jeeinyoun.substack.com/p/what-ambitious-girls-should-look)
+2. Chapter 1 of [An Encouragement of Learning](https://www.jstor.org/stable/10.7312/fuku16714) by Fukuzawa Yukichi
+3. Chapter 22 and 23 of Bram Stoker's [Dracula](https://www.gutenberg.org/ebooks/345)
