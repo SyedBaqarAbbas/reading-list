@@ -19,3 +19,6 @@ Maintaining a list of everything I read until I find an easier app
 
 ### 9 August 2026
 1. [A Stoic’s Key to Peace of Mind: Seneca on the Antidote to Anxiety](https://www.themarginalian.org/2017/08/27/seneca-anxiety/)
+
+### 10 August 2026
+1. [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)
