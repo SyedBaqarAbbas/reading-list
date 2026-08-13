@@ -22,3 +22,6 @@ Maintaining a list of everything I read until I find an easier app
 
 ### 10 August 2026
 1. [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599)
+
+### 13 August 2026
+1. [What is Teacher Forcing?](https://medium.com/data-science/what-is-teacher-forcing-3da6217fed1c)
