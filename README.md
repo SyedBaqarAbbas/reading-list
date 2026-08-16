@@ -25,3 +25,12 @@ Maintaining a list of everything I read until I find an easier app
 
 ### 13 August 2026
 1. [What is Teacher Forcing?](https://medium.com/data-science/what-is-teacher-forcing-3da6217fed1c)
+
+### 14 August 2026
+1. Chapter 1 of Gabriel Wyner's [Fluent Forever: How to Learn Any Language Fast and Never Forget It](https://fluentforeverbook.com)
+
+### 15 August 2026
+1. Chapter 2 of Gabriel Wyner's [Fluent Forever: How to Learn Any Language Fast and Never Forget It](https://fluentforeverbook.com)
+
+### 16 August 2026
+1. Continued Chapter 2 of Gabriel Wyner's [Fluent Forever: How to Learn Any Language Fast and Never Forget It](https://fluentforeverbook.com)
