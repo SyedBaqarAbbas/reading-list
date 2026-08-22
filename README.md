@@ -34,3 +34,15 @@ Maintaining a list of everything I read until I find an easier app
 
 ### 16 August 2026
 1. Continued Chapter 2 of Gabriel Wyner's [Fluent Forever: How to Learn Any Language Fast and Never Forget It](https://fluentforeverbook.com)
+
+### 18 August 2026
+1. [tokens are getting more expensive](https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed)
+
+### 19 August 2026
+1. [Intelligence Efficiency: More Model Choice, Smarter Routing](https://www.snowflake.com/en/blog/ai-intelligence-efficiency-dynamic-model-routing/)
+
+### 20 August 2026
+1. Chapter 3 of Gabriel Wyner's [Fluent Forever: How to Learn Any Language Fast and Never Forget It](https://fluentforeverbook.com)
+
+### 21 August 2026
+1. Continued Chapter 3 of Gabriel Wyner's [Fluent Forever: How to Learn Any Language Fast and Never Forget It](https://fluentforeverbook.com)
